@@ -1,0 +1,10 @@
+Log created: 2021-04-21 07:10:27
+Type: backup
+[2021-04-21 07:10:33][notice]Start backing up.
+[2021-04-21 07:10:33][notice]server info fcgi:Off max execution time: 900 wp version:5.7.1 php version:8.0.3 db version:5.5.5 php ini:safe_mode: memory_limit:256M memory_get_usage:81.39 MB memory_get_peak_usage:82.50 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2021-04-21 07:10:33][notice]Prepare to backup backup_themes files.
+[2021-04-21 07:10:33][notice]File number: 599
+[2021-04-21 07:10:33][notice]Start compressing backup_themes
+[2021-04-21 07:10:33][notice]Prepare to zip files. file: localhost_wordpress_wpvivid-607fcfe32fcea_2021-04-21-07-10_backup_themes.zip
+[2021-04-21 07:10:33][error]An error has occurred. class:ValueError;msg:fread(): Argument #2 ($length) must be greater than 0;code:0;line:2677;in_file:C:\xampp\htdocs\wordpress\wp-admin\includes\class-pclzip.php;
+[2021-04-21 07:10:33][error]An error has occurred. class:ValueError;msg:fread(): Argument #2 ($length) must be greater than 0;code:0;line:2677;in_file:C:\xampp\htdocs\wordpress\wp-admin\includes\class-pclzip.php;

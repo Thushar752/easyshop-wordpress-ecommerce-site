@@ -1,0 +1,497 @@
+
+Apr 20, 2021 13.39.49: abs
+Apr 20, 2021 13.39.49: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.49: Array
+(
+)
+
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.49: Array
+(
+)
+
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : function  wcct_woocommerce_product_is_in_stock yes
+Apr 20, 2021 13.39.49: Product id 2593 : function  wcct_woocommerce_product_is_in_stock yes
+Apr 20, 2021 13.39.49: Product id 2593 : function  wcct_woocommerce_product_is_in_stock yes
+Apr 20, 2021 13.39.49: Product id 2593 : function  wcct_woocommerce_product_is_in_stock yes
+Apr 20, 2021 13.39.49: Product id 2593 : function  wcct_woocommerce_product_is_in_stock yes
+Apr 20, 2021 13.39.49: Product id 2593 
+
+ wcct_backorders_allowed 
+no
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_sale_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.49: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.49: Product id 2593 : function  wcct_woocommerce_product_is_in_stock yes
+Apr 20, 2021 13.39.49: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.49: Array
+(
+)
+
+Apr 20, 2021 13.39.49: Product id 210 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.49: Array
+(
+)
+
+Apr 20, 2021 13.39.49: Product id 95 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.49: Array
+(
+)
+
+Apr 20, 2021 13.39.49: Product id 2699 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.49: Array
+(
+)
+
+Apr 20, 2021 13.39.49: Product id 2704 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.49: Array
+(
+)
+
+Apr 20, 2021 13.39.49: Product id 2704 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.49: Array
+(
+)
+
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_sale_price Before Price: 
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2704
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_sale_price After Price: 
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_price Before Price: 2085
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2704
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_price After Price: 2085
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_price Before Price: 2085
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2704
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_price After Price: 2085
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_sale_price Before Price: 
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2704
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_sale_price After Price: 
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_price Before Price: 2085
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2704
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_price After Price: 2085
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_price Before Price: 2085
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2704
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_price After Price: 2085
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_sale_price Before Price: 
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2704
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_sale_price After Price: 
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_price Before Price: 2085
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2704
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_price After Price: 2085
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_price Before Price: 2085
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2704
+Apr 20, 2021 13.39.49: Product id 2704 : wcct_trigger_get_price After Price: 2085
+Apr 20, 2021 13.39.49: Product id 210 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.49: Array
+(
+)
+
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_sale_price Before Price: 499
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product210
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_sale_price After Price: 499
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_sale_price Before Price: 499
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product210
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_sale_price After Price: 499
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_price Before Price: 499
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product210
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_price After Price: 499
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_price Before Price: 499
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product210
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_price After Price: 499
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_sale_price Before Price: 499
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product210
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_sale_price After Price: 499
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_sale_price Before Price: 499
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product210
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_sale_price After Price: 499
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_price Before Price: 499
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product210
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_price After Price: 499
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_price Before Price: 499
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product210
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_price After Price: 499
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_sale_price Before Price: 499
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product210
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_sale_price After Price: 499
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_sale_price Before Price: 499
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product210
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_sale_price After Price: 499
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_price Before Price: 499
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product210
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_price After Price: 499
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_price Before Price: 499
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product210
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_price After Price: 499
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_price Before Price: 499
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product210
+Apr 20, 2021 13.39.49: Product id 210 : wcct_trigger_get_price After Price: 499
+Apr 20, 2021 13.39.49: Product id 2699 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.49: Array
+(
+)
+
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_sale_price Before Price: 
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2699
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_sale_price After Price: 
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_price Before Price: 1544
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2699
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_price After Price: 1544
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_price Before Price: 1544
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2699
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_price After Price: 1544
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_sale_price Before Price: 
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2699
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_sale_price After Price: 
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_price Before Price: 1544
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2699
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_price After Price: 1544
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_price Before Price: 1544
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2699
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_price After Price: 1544
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_sale_price Before Price: 
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2699
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_sale_price After Price: 
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_price Before Price: 1544
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2699
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_price After Price: 1544
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_price Before Price: 1544
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product2699
+Apr 20, 2021 13.39.49: Product id 2699 : wcct_trigger_get_price After Price: 1544
+Apr 20, 2021 13.39.49: Product id 95 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.49: Array
+(
+)
+
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_sale_price Before Price: 
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product95
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_sale_price After Price: 
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_price Before Price: 150
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product95
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_price After Price: 150
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_price Before Price: 150
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product95
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_price After Price: 150
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_sale_price Before Price: 
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product95
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_sale_price After Price: 
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_price Before Price: 150
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product95
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_price After Price: 150
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_price Before Price: 150
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product95
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_price After Price: 150
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_sale_price Before Price: 
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product95
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_sale_price After Price: 
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_price Before Price: 150
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product95
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_price After Price: 150
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_price Before Price: 150
+Apr 20, 2021 13.39.49:  terminating wcct_trigger_create_price For Product95
+Apr 20, 2021 13.39.49: Product id 95 : wcct_trigger_get_price After Price: 150
+Apr 20, 2021 13.39.49: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.49: Array
+(
+)
+
+Apr 20, 2021 13.39.49: Initializing header info function  Product : 2593
+Apr 20, 2021 13.39.50: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.50: Array
+(
+)
+
+Apr 20, 2021 13.39.50: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.50:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.50: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.50: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.50: Array
+(
+)
+
+Apr 20, 2021 13.39.50: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.50: Array
+(
+)
+
+Apr 20, 2021 13.39.50: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.50: Array
+(
+)
+
+Apr 20, 2021 13.39.50: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.50: Array
+(
+)
+
+Apr 20, 2021 13.39.50: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.50:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.50: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.52: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.52: Array
+(
+)
+
+Apr 20, 2021 13.39.52: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.52:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.52: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.52: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.52: Array
+(
+)
+
+Apr 20, 2021 13.39.52: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.52: Array
+(
+)
+
+Apr 20, 2021 13.39.52: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.52: Array
+(
+)
+
+Apr 20, 2021 13.39.52: Product id 2593 : function  wcct_woocommerce_product_is_in_stock yes
+Apr 20, 2021 13.39.52: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.52:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.52: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.52: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.52:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.52: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.52: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.52: Array
+(
+)
+
+Apr 20, 2021 13.39.52: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.52:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.52: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.52: Product id 2593 
+
+ wcct_backorders_allowed 
+no
+Apr 20, 2021 13.39.52: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.52:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.52: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.52: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.52:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.52: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.55: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.55: Array
+(
+)
+
+Apr 20, 2021 13.39.55: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.55:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.55: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.55: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.55: Array
+(
+)
+
+Apr 20, 2021 13.39.55: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.55: Array
+(
+)
+
+Apr 20, 2021 13.39.55: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.55: Array
+(
+)
+
+Apr 20, 2021 13.39.55: Product id 2593 : function  wcct_woocommerce_product_is_in_stock yes
+Apr 20, 2021 13.39.55: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.55:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.55: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.55: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.55:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.55: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.55: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.55: Array
+(
+)
+
+Apr 20, 2021 13.39.55: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.55:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.55: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.55: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.55:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.55: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.57: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.57: Array
+(
+)
+
+Apr 20, 2021 13.39.57: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.57:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.57: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.57: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.57: Array
+(
+)
+
+Apr 20, 2021 13.39.57: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.57: Array
+(
+)
+
+Apr 20, 2021 13.39.57: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.57:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.57: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.57: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.57:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.57: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.57: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.39.57: Array
+(
+)
+
+Apr 20, 2021 13.39.57: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.57:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.57: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.39.57: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.39.57:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.39.57: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.40.02: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.02: Array
+(
+)
+
+Apr 20, 2021 13.40.02: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.40.02:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.40.02: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.40.02: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.02: Array
+(
+)
+
+Apr 20, 2021 13.40.02: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.02: Array
+(
+)
+
+Apr 20, 2021 13.40.02: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.40.02:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.40.02: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.40.02: Product id 2593 : wcct_trigger_get_price Before Price: 1999.00
+Apr 20, 2021 13.40.02:  terminating wcct_trigger_create_price For Product2593
+Apr 20, 2021 13.40.02: Product id 2593 : wcct_trigger_get_price After Price: 1999.00
+Apr 20, 2021 13.40.02: Product id 2593 : function  wcct_woocommerce_product_is_in_stock yes
+Apr 20, 2021 13.40.02: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.02: Array
+(
+)
+
+Apr 20, 2021 13.40.03: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.03: Array
+(
+)
+
+Apr 20, 2021 13.40.03: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.03: Array
+(
+)
+
+Apr 20, 2021 13.40.03: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.03: Array
+(
+)
+
+Apr 20, 2021 13.40.03: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.03: Array
+(
+)
+
+Apr 20, 2021 13.40.03: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.03: Array
+(
+)
+
+Apr 20, 2021 13.40.03: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.03: Array
+(
+)
+
+Apr 20, 2021 13.40.03: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.03: Array
+(
+)
+
+Apr 20, 2021 13.40.03: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.03: Array
+(
+)
+
+Apr 20, 2021 13.40.05: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.05: Array
+(
+)
+
+Apr 20, 2021 13.40.05: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.05: Array
+(
+)
+
+Apr 20, 2021 13.40.05: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.05: Array
+(
+)
+
+Apr 20, 2021 13.40.05: Product id 2593 : DATA SET UP : CHECK DATA BELOW
+Apr 20, 2021 13.40.05: Array
+(
+)
